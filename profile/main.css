@@ -1,0 +1,72 @@
+body {
+    background-color: #333;
+}
+
+.nav {
+    display: inline-flex;
+    background-color: #333;
+    color: white;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.nav li a {
+    color: #fff;
+    padding-right: 40px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.profile {
+    color: #fff;
+}
+
+.profile_title {
+    font-size: 45px;
+    padding: 10px 0;
+    color: #3c85a5;
+    font-weight: 700;
+}
+
+.profile_title1 {
+    color: #3c85a5;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.twitter {
+    color: #07abe8;
+    padding-right: 18px;
+}
+
+.facebook {
+    color: 446399;
+    padding-right: 20px;
+}
+
+.google {
+    color: #9d625c;
+    padding-right: 14px;
+}
+
+.feed {
+    color: #e7a034;
+    padding-right: 20px;
+}
+
+.mail {
+    padding-right: 20px;
+}
+
+.profile {
+    display: block;
+}

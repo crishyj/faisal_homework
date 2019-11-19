@@ -1,0 +1,65 @@
+.container{
+    /* margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%; */
+    margin: 18% 18% 18% 18%;
+    padding: 2% 2% 2% 2%;
+    font-size: 1cm;
+    line-height: 2cm;
+}
+
+.postsContainer{
+    margin: 18% 18% 18% 18%;
+    padding: 2% 2% 2% 2%;
+    font-size: 1cm;
+    line-height: 2cm;
+}
+
+.createPostContainer{
+  margin: 9% 9% 9% 9%;
+  padding: 2% 2% 2% 2%;
+  font-size: 1cm;
+  line-height: 2cm;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(5, 0, 255);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+  }
+
+img{
+  float: right;
+}
+
+p{
+  /* width: 20px; */
+  color: aqua;
+}
